@@ -1,12 +1,12 @@
 let a=20;
 
-if(a%5==0){
+if(a%2==0){
 
-console.log("Even");
+console.log("EVEN");
 
 } else{
 
-console.log("Odd");
+console.log("ODD");
 
 
 
